@@ -1,4 +1,4 @@
 opencv_contrib_python==4.1.1.26
 numpy==1.17.3
 quickdraw==0.1.0
-Pillow==6.2.1
+Pillow==9.3.0
